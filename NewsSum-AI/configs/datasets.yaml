@@ -1,0 +1,25 @@
+cnn_dailymail:
+  source: ccdv/cnn_dailymail
+  config: '3.0.0'
+  max_source_tokens: 512
+  max_target_tokens: 128
+  per_gpu_batch: 8
+  accumulation: 1
+  length_penalty: 2.0
+  no_repeat_ngram_size: 3
+xsum:
+  source: EdinburghNLP/xsum
+  max_source_tokens: 512
+  max_target_tokens: 64
+  per_gpu_batch: 8
+  accumulation: 1
+  length_penalty: 1.0
+  no_repeat_ngram_size: 0
+multi_news:
+  source: alexfabbri/multi_news
+  max_source_tokens: 1024
+  max_target_tokens: 256
+  per_gpu_batch: 4
+  accumulation: 2
+  length_penalty: 1.5
+  no_repeat_ngram_size: 3
