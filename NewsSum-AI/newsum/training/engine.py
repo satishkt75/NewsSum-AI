@@ -1,4 +1,4 @@
-"""Transparent research training loop with per-loss logs and resumable checkpoints."""
+
 import json
 import math
 import random
