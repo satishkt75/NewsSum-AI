@@ -1,4 +1,4 @@
-"""Source grounding, NLI over source chunks, and faithfulness-aware selection."""
+
 import re
 from dataclasses import dataclass, asdict
 
