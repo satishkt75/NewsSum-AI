@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-"""Training command. Example: python scripts/train.py --dataset xsum --variant salience_faith --limit-train 64 --limit-val 16 --max-steps 2"""
+
 import argparse
 import json
 from pathlib import Path
