@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/1465004259.svg)](https://doi.org/10.5281/zenodo.24387757)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/satishkt75/NewsSum-AI)
+
 # NewsSum-AI: SalienceFaithNet
 
 **NewsSum-AI** is a faithfulness-aware artificial intelligence framework for abstractive summarisation of English news using salience planning and entity consistency.
