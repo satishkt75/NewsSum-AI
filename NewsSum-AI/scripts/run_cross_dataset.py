@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-"""Generate transfer-evaluation commands: CNN/DM -> XSum and reverse."""
+
 import argparse
 
 def main():
