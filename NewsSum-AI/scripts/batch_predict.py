@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-"""Batch prediction + references for full benchmark evaluations."""
+
 import argparse
 import json
 from pathlib import Path
