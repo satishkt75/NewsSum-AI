@@ -1,4 +1,4 @@
-"""Beam decoding + checkpoint-compatible end-to-end summary API."""
+
 import torch
 from newsum.data.pipeline import DATASETS, segment_spans, token_segment_ids
 from newsum.inference.reranker import rerank
