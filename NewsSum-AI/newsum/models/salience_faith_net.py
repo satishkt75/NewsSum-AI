@@ -1,8 +1,4 @@
-"""BART-large with decoder-layer salience gates and optional entity/coverage losses.
 
-Supports Hugging Face generation with cached planning signals and beam expansion.
-All model variants share one implementation for fair ablations.
-"""
 from dataclasses import dataclass
 from typing import Optional
 
