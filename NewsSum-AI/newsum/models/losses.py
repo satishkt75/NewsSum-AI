@@ -1,4 +1,4 @@
-"""Research losses and differentiable coverage objective."""
+
 import torch
 import torch.nn.functional as F
 
