@@ -1,4 +1,4 @@
-"""Differentiable mean-pooling and source-salience planning."""
+
 import torch
 from torch import nn
 
