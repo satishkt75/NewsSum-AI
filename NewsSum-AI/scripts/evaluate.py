@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-"""Compute reference-based metrics from aligned prediction records (JSONL)."""
+
 import argparse
 import json
 from pathlib import Path
