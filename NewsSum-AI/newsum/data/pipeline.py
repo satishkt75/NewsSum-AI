@@ -1,4 +1,4 @@
-"""Dataset harmonisation, canonical segmentation, and collator."""
+
 import bisect
 import hashlib
 import re
