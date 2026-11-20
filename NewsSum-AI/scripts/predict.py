@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-"""Predict one news summary from raw input text."""
+
 import argparse
 import json
 from pathlib import Path
