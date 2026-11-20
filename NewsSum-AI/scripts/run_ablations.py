@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-"""Print reproducible shell commands for the 4 variants × 3 random seeds."""
+
 import argparse
 
 def main():
