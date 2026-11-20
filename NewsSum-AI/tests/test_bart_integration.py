@@ -1,4 +1,4 @@
-"""Runs only when Transformers is installed; no downloads required."""
+
 import pytest
 transformers = pytest.importorskip('transformers')
 import torch
