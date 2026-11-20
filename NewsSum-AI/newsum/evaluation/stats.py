@@ -1,4 +1,4 @@
-"""Paired significance and multiple-testing corrections."""
+
 import numpy as np
 
 
