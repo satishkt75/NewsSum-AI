@@ -33,7 +33,7 @@ For large-scale experiments, multiple high-memory GPUs are recommended.
 Clone the repository:
 
 ```bash
-git clone https://github.com/satishkt75/NewsSum-AI.git
+git clone https://github.com/satishkt75/NewsSum-AI
 cd NewsSum-AI
 ```
 
