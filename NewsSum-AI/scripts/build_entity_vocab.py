@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-"""Build the corpus-level summary-entity subword vocabulary from training split only."""
+
 import argparse
 import json
 from pathlib import Path
